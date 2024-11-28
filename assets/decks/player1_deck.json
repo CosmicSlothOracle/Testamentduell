@@ -1,0 +1,39 @@
+[
+    {
+        "name": "Faithful Shepherd",
+        "card_type": "BELIEVER",
+        "attribute": "HOLY",
+        "effect": "Gains 300 FP for each Scripture in play",
+        "level": 3,
+        "faith_points": 1200,
+        "divinity_points": 1000,
+        "skp_cost": 3,
+        "faction": "GOD"
+    },
+    {
+        "name": "Psalm of Protection",
+        "card_type": "SCRIPTURE",
+        "attribute": "HOLY",
+        "effect": "Reduces all damage to your Grace Points by 500",
+        "scripture_type": "BLESSING",
+        "skp_cost": 2,
+        "faction": "CHURCH"
+    },
+    {
+        "name": "Divine Intervention",
+        "card_type": "MIRACLE",
+        "attribute": "HOLY",
+        "effect": "Negate an opponent's Miracle card",
+        "miracle_type": "REBUKE",
+        "skp_cost": 6,
+        "faction": "GOD"
+    },
+    {
+        "name": "Crown of Thorns",
+        "card_type": "RELIC",
+        "attribute": "HOLY",
+        "effect": "Equipped Believer gains immunity to Miracles",
+        "skp_cost": 3,
+        "faction": "CHURCH"
+    }
+]

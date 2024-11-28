@@ -1,0 +1,39 @@
+[
+    {
+        "name": "Archangel Michael",
+        "card_type": "BELIEVER",
+        "attribute": "HOLY",
+        "effect": "Attacks twice per turn",
+        "level": 6,
+        "faith_points": 2500,
+        "divinity_points": 2000,
+        "skp_cost": 6,
+        "faction": "GOD"
+    },
+    {
+        "name": "Divine Shield",
+        "card_type": "SCRIPTURE",
+        "attribute": "HOLY",
+        "effect": "Prevents all damage this turn",
+        "scripture_type": "BLESSING",
+        "skp_cost": 3,
+        "faction": "CHURCH"
+    },
+    {
+        "name": "Heavenly Judgment",
+        "card_type": "MIRACLE",
+        "attribute": "HOLY",
+        "effect": "Destroys all enemy Believers",
+        "miracle_type": "JUDGMENT",
+        "skp_cost": 6,
+        "faction": "GOD"
+    },
+    {
+        "name": "Sword of the Spirit",
+        "card_type": "RELIC",
+        "attribute": "HOLY",
+        "effect": "Equipped Believer gains +1000 FP",
+        "skp_cost": 4,
+        "faction": "CHURCH"
+    }
+]

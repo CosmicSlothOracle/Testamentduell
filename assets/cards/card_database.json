@@ -1,0 +1,19 @@
+{
+    "card_sets": {
+        "core": {
+            "set_name": "Testament Core",
+            "set_code": "TC",
+            "cards": {}
+        },
+        "genesis": {
+            "set_name": "Genesis Expansion",
+            "set_code": "GE",
+            "cards": {}
+        },
+        "exodus": {
+            "set_name": "Exodus Expansion",
+            "set_code": "EX",
+            "cards": {}
+        }
+    }
+}
